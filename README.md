@@ -1,2 +1,2 @@
 # bsu-testing-course
-Romanchenko Alex
+Romanchenko Alex 9gr
